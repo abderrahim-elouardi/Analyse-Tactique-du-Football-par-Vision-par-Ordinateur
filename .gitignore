@@ -1,3 +1,4 @@
 data/raw_video/
 *.webm
 *.mp4
+.venv
