@@ -1,0 +1,2 @@
+1- on va commencer par etudier les deux concept YOLO and Deepsort a fin qu'on pourais 
+extrait les differents information sur les joeurs et la ball de la video
