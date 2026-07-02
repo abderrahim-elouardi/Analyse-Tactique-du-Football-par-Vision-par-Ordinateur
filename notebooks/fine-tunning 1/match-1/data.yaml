@@ -1,0 +1,15 @@
+names:
+- Ball
+- Keeper
+- Player
+- Ref
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: match-zcjsf
+  url: https://universe.roboflow.com/football-7ht3k/match-zcjsf/dataset/1
+  version: 1
+  workspace: football-7ht3k
+test: ../test/images
+train: ../train/images
+val: ../valid/images
